@@ -1,0 +1,13 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "Express.js app with PostgreSQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
